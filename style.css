@@ -118,6 +118,7 @@
     border: 2px solid #111;
     padding: 12px 25px;
     transition: all .42s ease;
+    border-radius: 20px;
   }
   
   .main-btn:hover{
@@ -156,6 +157,7 @@
     box-shadow: 0px 0px 10px rgb(0 0 0 /10%);
   }
   
+
   /* trending-center-text-css */
   
   .center-text h2{
