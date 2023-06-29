@@ -231,7 +231,7 @@
     font-size: 16px;
     text-transform: capitalize;
     font-weight: 400;
-    text-align: center; /*d*/
+    text-align: center; /* d */
   }
   
   .price p{
@@ -332,8 +332,7 @@
     font-weight: 500;
   }
   
-  
-  
+
   /*contact-section*/
   
   .contact{
