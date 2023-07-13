@@ -209,7 +209,7 @@
     text-transform: uppercase;
     background-color: #27b737;
     padding: 3px 10px;
-    border-radius: 2px;
+    border-radius: 2px; /* .... */
   }
   
   .heart-icon{
